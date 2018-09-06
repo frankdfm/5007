@@ -1,11 +1,15 @@
 cross platform compatibility 
-    PC /mobile phone/ smart watch
-    broswer/ app / app 
+    PC - web page in broswer
+    mobile phone - app for iOS & Android
+    smart watch - app to be developed
+    
     user friendly easy to use
 
-security system
-    Have security measures in place to protect data and prevent unauthorized access
-    Https implemented / cryption for our database
+advanced security system
+    Have comprehensive security measures in place to protect data and prevent unauthorized access
+    Https implemented for web page
+    strongly encrypted commuication method in app
+    cryption for our database
     (invovle payment system? - dish selection - hassel-free book-n-eat mode)
     
 privacy protection 
@@ -21,7 +25,10 @@ instant commuication system
 Big-data and AI implemented 
     learn from the usage pattern to recommend resteraurant
     when you are aboard you can choose to have recommendation based on your taste or local specialties
+    - same here we wont use the data for any other purpose
+
 
 
 promotion - benefit for customer and merchant
 why do you choose us no other compititor?
+Loyalty points?
