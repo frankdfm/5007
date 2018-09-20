@@ -1,64 +1,9 @@
-Mutiple client app was designed to satisfy different users
-
-PC - webpage in browser (consumer / merchant )
-Mobile phone - app for iOS & Android (consumer / merchant )
-Smart watch - app to be developed        
-
-User friendly, easy to use with our intuitive GUI 
-different design according to OS
-
-
-
-
-
-
-
-Have comprehensive security measures in place to protect data and prevent unauthorized access    
-
-Checks on registration 
-Strongly encrypted communication method in app, Https for webpage   
-Encryption for our database
-
-Payment system will be highly sercured 
-
-
-
-
-
-
-
-The restaurant will not know anything other than your contact and reservation name
-
-We will not misuse our customer information
-Access right is controlled in the company
-
-
-
-
-
-
-
-In our app you can chat with the restaurant for any queries    
-On consumer side: easy to use just like WhatsApp
-On merchant side: reservation details displayed
-
-
-Traditional communication method is still applicable 
-
-
-
-
-
-
-
-Learn from the consumers’ usage pattern to recommend restaurants
-Cuisine type 
-Taste
-Price range
-etc. 
-
-When you are aboard you can choose to have recommendation based on your favorite or local specialties 
-same here we wont use the data for any other purpose
+region            SG          SEA         AS          Global
+population        5.6m        641m        4554m       7651m
+internet user     4.2m        340m        2009m       4100m
+potential user    0.5m        17m         60m         100m
+market value      4m          30m         2000m       4000m
+competitors       ~10         ~30        ~70          300+
 
 
 
@@ -67,7 +12,10 @@ same here we wont use the data for any other purpose
 
 
 
-
-(involve payment system? - dish selection - hassle-free book-n-eat mode)
-
-
+https://www.google.com/publicdata/explore?ds=d5bncppjof8f9_&met_y=it_net_user_p2&hl=en&dl=en
+https://www.google.com/publicdata/explore?ds=d5bncppjof8f9_&met_y=sp_pop_totl&hl=en&dl=en
+https://en.wikipedia.org/wiki/Southeast_Asia
+https://wearesocial.com/sg/blog/2017/02/digital-southeast-asia-2017
+https://medium.com/@mikekujawski/global-internet-statistics-for-2018-c9dda951717e
+http://www.worldometers.info/world-population/asia-population/
+https://www.statista.com/statistics/385440/unique-mobile-visitors-yelp/
